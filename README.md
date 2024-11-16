@@ -76,7 +76,7 @@ wide variety of tasks, including information extraction and classification tasks
 
 - [LegalBench](https://arxiv.org/pdf/2308.11462) - a collaboratively constructed legal reasoning benchmark consisting of 162 tasks covering six different types of legal reasoning. Made by subject experts between many highly esteemed universities, this benchmark measures legal reasoning capabilites that are useful to lawyers and reasoning skills that are interesting to them.
 
-## Resources
+## Resources used
 
 - [Claude 3.5 Sonnet announcement](https://www.anthropic.com/news/claude-3-5-sonnet), attached used benchmarks - GPQA, MMLU, BIG-Bench-Hard, DROP, MATH, MGSM, GSM8K, HumanEval, multimodal ones - MathVista (testmini), AI2D, Chart Q&A, ANLS
 - [GPT-4 technical report](https://arxiv.org/pdf/2303.08774) - attached used benchmarks not mentioned above - HellaSwag, ARC, WinoGrade
