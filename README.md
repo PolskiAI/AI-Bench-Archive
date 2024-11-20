@@ -9,6 +9,7 @@
 - [Chatbot Arena Leaderboard](https://lmarena.ai/?leaderboard) - an open source platform for evaluating AI through human preference, developed by researchers at UC Berkeley 
 - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - hosted by HuggingFace, a leaderboard testing open source models on various benchmarks.'
 - [ProLLM Leaderboard](https://prollm.toqan.ai/leaderboard) - holds leaderboard evaluating coding assistance, summarization, judging capabilites, entity extraction and many more
+- [Judge Arena](https://huggingface.co/spaces/AtlaAI/judge-arena) - community voted leaderboard regarding LLM as a judge capabilites made by Atla
 
 ### Coding leaderboards
 - [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - hosted by Aider, a pair programming solution. Has leaderboards for Code Editing and Code Refactoring using LLMs
@@ -75,6 +76,10 @@ wide variety of tasks, including information extraction and classification tasks
 ### Legal benchmarks
 
 - [LegalBench](https://arxiv.org/pdf/2308.11462) - a collaboratively constructed legal reasoning benchmark consisting of 162 tasks covering six different types of legal reasoning. Made by subject experts between many highly esteemed universities, this benchmark measures legal reasoning capabilites that are useful to lawyers and reasoning skills that are interesting to them.
+
+### Biology benchmarks
+
+- [LAB-Bench](https://arxiv.org/abs/2407.10362) - Language Agent Biology Benchmark, evaluates LLM capabilites on literature search, protocol planning and data analysis.
 
 ## Resources used
 
