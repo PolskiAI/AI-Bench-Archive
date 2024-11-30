@@ -32,6 +32,7 @@
 - [LiveBench](https://livebench.ai/) - benchmarking initiative created in June 2024. Started with 17 diverse tasks initially, with new harder tasks to be added over time.
 - [AIME](https://github.com/codelion/optillm/blob/main/scripts/eval_aime_benchmark.py) - American Invitational Mathematics Examination but in the benchmark form
 - [Simple Bench](https://simple-bench.com/) - multiple choice text benchmark for LLMs, high school grade but outperforming SOTA models. Over 200 questions including trick questions, social intelligence and spatio-temporal reasoning.
+- [GLUE](https://gluebenchmark.com/) - General Language Understanding benchmark, which is a collection of nine sentence-pair language understanding tasks built on established datasets, covering diverse range of genres and degrees of difficulty
 
 ### Towards AGI 
 
@@ -80,6 +81,19 @@ wide variety of tasks, including information extraction and classification tasks
 ### Biology benchmarks
 
 - [LAB-Bench](https://arxiv.org/abs/2407.10362) - Language Agent Biology Benchmark, evaluates LLM capabilites on literature search, protocol planning and data analysis.
+
+## Language specific
+
+### Polish language
+
+- [KLEJ](https://klejbenchmark.com/) - stands for Kompleksowa Lista Ewaluacji Językowych, which is the polish translation/variant of before mentioned GLUE benchmark, made by [Allegro](https://allegro.pl/)
+
+Provided by the team from [SpeakLeash](https://huggingface.co/speakleash):
+- [Open PL LLM Leaderboard](https://huggingface.co/spaces/speakleash/open_pl_llm_leaderboard) - which uses polemo2, KLEJ  , polqa, and many more.
+- [EQ-Bench](https://huggingface.co/spaces/speakleash/polish_eq-bench) - Polish Emotional Intelligence benchmark, using the arena format to gauge the emotional capability of LLMs
+- [MT-Bench](https://huggingface.co/spaces/speakleash/mt-bench-pl) - a polish version of the mentioned before MT-Bench
+- [Polish Medical Leaderboard](https://huggingface.co/spaces/speakleash/polish_medical_leaderboard) - uses the [PES-2018-2022](https://huggingface.co/datasets/speakleash/PES-2018-2022) dataset to gauge the LLM capability to answer medical questions
+- [CPTUB](https://huggingface.co/spaces/speakleash/cptu_bench) - Complex Polish Understanding Benchmark, evaluates the capability to correctly interpret complext texts, sarcasm, implicatures and phrases.
 
 ## Resources used
 
